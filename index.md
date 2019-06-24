@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## This is my LinkedIn profile
 
